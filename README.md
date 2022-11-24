@@ -1,5 +1,4 @@
--  Hi, I’m BulgariaMonster
--  I’m interested in Lua,Mcfunction,Java,Javascript and Python
+-  idk to write here
 
 <!---
 BulgariaMonster-dev/BulgariaMonster-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
